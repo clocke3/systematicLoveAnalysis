@@ -1,3 +1,6 @@
+// NOTE: CODE DOES NOT COMPILE! THIS IS ONLY USED FOR REFERENCE OF THE VISUALS 
+// SEEN FROM PROJECT DIVA
+
 #include <iostream>
 #include <math.h>
 
